@@ -15,4 +15,4 @@ Before reporting an issue, please ensure thay you meet the criteria below:
 
 _______________________________________________
 
-[Bots For Discord](https://botsfordiscord.com/api/bot/505571539333152781/widget)
+![Bots For Discord](https://botsfordiscord.com/api/bot/505571539333152781/widget)
